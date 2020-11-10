@@ -1,0 +1,17 @@
+
+.list-group{
+    background-color:  rgb(83, 240, 83);
+    align-items: center;
+    color: black;
+    font-weight: bold;
+}
+.dash-input{
+    width: 110px;
+}
+.ttv{
+    margin-left: 75%;
+    padding-bottom: 40%;
+}
+.d-card-title{
+    color:  rgb(7, 7, 95);
+}
